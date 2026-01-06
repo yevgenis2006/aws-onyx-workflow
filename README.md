@@ -1,7 +1,8 @@
-<img width="1138" height="549" alt="image" src="https://github.com/user-attachments/assets/de0a66cc-280f-4526-b163-d49d9e4c2cd9" />
+<img width="3200" height="1802" alt="image" src="https://github.com/user-attachments/assets/353a9d4e-f9f6-427a-802a-837f53e542de" />
 
 
-## Langsmith | AWS - GCP - Azure
+
+## Onyx | AWS - GCP - Azure
 Onyx is a feature-rich, self-hostable Chat UI that works with any LLM. It is easy to deploy and can run in a completely airgapped environment.Onyx comes loaded with advanced features like Agents, Web Search, RAG, MCP, Deep Research, Connectors to 40+ knowledge sources.
 
 
